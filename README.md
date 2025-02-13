@@ -41,4 +41,5 @@ The script will perform the following steps:
 - Evaluate the weather conditions.
 - Send an SMS alert via Twilio if rain is forecasted.
 
+This project is a part of my [Python REST API Programming](https://github.com/Songhai9/API-Programming)
 
